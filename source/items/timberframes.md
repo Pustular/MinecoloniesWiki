@@ -32,3 +32,5 @@ Timber framed blocks are a decoration. Simply put them where you want them, howe
 
 <img src="../../assets/images/items/plain_timberframes.png" alt="Plain Timber Framed Blocks" />
 <img src="../../assets/images/items/TimberedFrames.png" alt="Timber Framed Blocks" />
+
+**Update for 1.17**  As of 1.17, timber frame blocks are now created using the "architects cutter" instead of the "crafting table".
